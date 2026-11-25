@@ -1,4 +1,4 @@
-# Homebrew tap for Dynotch
+# Homebrew tap for Wingmate (Dynotch)
 
 ```bash
 brew tap kera77/dynotch
@@ -7,6 +7,6 @@ brew install --cask dynotch
 ```
 
 The cask always installs the latest [Dynotch release](https://github.com/Kera77/Dynotch/releases).
-Dynotch updates itself afterwards (Settings › About).
+Wingmate updates itself afterwards (Settings › About). The cask, the app bundle and the repository keep the Dynotch name.
 
 The cask is kept in the main repository under `Packaging/Homebrew` and copied here.

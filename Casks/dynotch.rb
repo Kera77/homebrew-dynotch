@@ -3,7 +3,7 @@ cask "dynotch" do
   sha256 :no_check
 
   url "https://github.com/Kera77/Dynotch/releases/latest/download/Dynotch.dmg"
-  name "Dynotch"
+  name "Wingmate"
   desc "Notch utilities: calendar, notifications, notes, Claude and more"
   homepage "https://github.com/Kera77/Dynotch"
 
